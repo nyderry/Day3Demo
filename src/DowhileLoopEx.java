@@ -11,7 +11,7 @@ public class DowhileLoopEx {
 
         do {
             futureValue = (futureValue + monthlyPmt) * (1 + interestRate);
-            1++;
+            i++;
 
         }  while (i <= month);
 

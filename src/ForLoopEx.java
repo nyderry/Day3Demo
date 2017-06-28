@@ -9,7 +9,7 @@ public class ForLoopEx {
 
         for (int i = 0; i < 5 ; i++) {
             numbers += i;
-            numbers += " ");
+            numbers += " ";
 
         }
         System.out.println(numbers);
